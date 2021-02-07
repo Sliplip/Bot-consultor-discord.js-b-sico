@@ -5,7 +5,9 @@ QUALQUER DÚVIDA ME CHAME NO DISCORD: NewLayer'💸#8248
 PARA RODAR O BOT, EXECUTE NO TERMINAL:
 
 npm install discord.js@12.0.0
+
 npm install request
+
 npm install colors
 
 APÓS ISSO, CONFIGURE O PREFIXO, TOKEN DE SEU BOT EM config.json
