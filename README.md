@@ -10,6 +10,6 @@ npm install request
 
 npm install colors
 
-APÓS ISSO, CONFIGURE O PREFIXO, TOKEN DE SEU BOT EM config.json
+APÓS ISSO, CONFIGURE O PREFIXO, TOKEN, E COR DA EMBED DE SEU BOT EM config.json
 
 FEITO ISSO, SEJA FELIZ E RODE O BOT! <3
